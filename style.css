@@ -22,7 +22,7 @@
   
   /* Body background fade-in */
   body {
-    background-image: url('sky.png');
+    background-color:black;
     background-position: center;
     background-repeat: no-repeat;
     animation: fadeIn 1s ease-in-out;  /* Fade-in animation for the background */
