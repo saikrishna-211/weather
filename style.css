@@ -22,7 +22,7 @@
   
   /* Body background fade-in */
   body {
-    background-color:black;
+    background-color:linear-gradient:rgba(0.5);
     background-position: center;
     background-repeat: no-repeat;
     animation: fadeIn 1s ease-in-out;  /* Fade-in animation for the background */
